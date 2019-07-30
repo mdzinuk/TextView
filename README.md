@@ -1,6 +1,6 @@
 # TextView
 ## Setting from IB
-| ![Setting from IB](https://github.com/mdzinuk/TextView/blob/master/Resources/interface_builder.png
+![Setting from IB](https://github.com/mdzinuk/TextView/blob/master/Resources/interface_builder.png
 
 ## Example
 ![TextView Demo](https://github.com/mdzinuk/TextView/blob/master/Resources/demo.gif)
